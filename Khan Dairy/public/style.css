@@ -1,0 +1,144 @@
+/* topper */
+#carouselExampleSlidesOnly{
+    text-align: center;
+    background-color: rgb(109, 0, 0);
+    color: white;
+    word-spacing: 10px;
+    letter-spacing: 3px;
+    font-family: 'Akaya Telivigala', cursive;
+    padding: 5px;
+}
+/* nav or nav logo */
+.websiteLogo{
+    margin: 0 auto;
+    text-align: center;
+    justify-content: center;
+}
+
+.navbar-brand{
+    font-size: 40px;
+    font-family: 'Akaya Telivigala', cursive;
+    color: rgb(109, 0, 0) !important;
+}
+
+.nav-item a{
+    color: rgb(109, 0, 0) !important;
+    font-family: 'Akaya Telivigala', cursive;
+
+}
+
+.nav-item a:hover{
+    color: blue !important;
+}
+
+.btn{
+    background-color: rgb(109, 0, 0) !important;
+    color: white !important;
+    font-family: 'Akaya Telivigala', cursive;
+}
+
+/* paragraphs */
+
+#paragraphs{
+    margin: 0 auto !important;
+    justify-content: center !important;
+    text-align: center !important;
+    align-items: center !important;
+}
+
+
+ .content{
+background-color: rgb(236, 235, 235);
+}
+
+.content h4{
+    font-size: 30px ;
+    font-family: 'Akaya Telivigala', cursive;
+    padding: 10px!important;
+    color: black !important;
+}
+
+.content h4 b{
+    color: maroon !important;
+}
+
+/* our  products & cards */
+
+.title{
+    text-align: center;
+    margin: 0 auto;
+    color: mediumblue;
+}
+
+#cards .row{
+    justify-content: center !important;
+}
+
+#cards div div{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-family: 'Akaya Telivigala', cursive;
+}
+
+#cards div div:hover{
+    color: rgb(109, 129, 52);
+}
+
+
+/* see more */
+
+#seemore{
+   margin: 0 auto;
+   text-align: center;
+   padding: 10px;
+font-size: 20px;
+text-decoration: none;
+
+}
+
+/* footer */
+
+#footer{
+    background: url(./footer\ background.jpg) bottom no-repeat #1c447c;
+    min-height: 330px;
+    background-size: 100% 9%;
+    text-align: center !important;
+    padding-top: 20px !important;
+}
+
+#navigate a{
+    text-decoration: none;
+    color: white;
+}
+
+#navigate a:hover{
+    color: black;
+}
+
+#footer .row div h4{
+    color: yellow;  
+}
+
+#footer .row div h5{
+    color: black;
+}
+
+#navigate{
+    border-right: 3px solid white;
+    height: 180px;
+    margin-top: 30px !important;
+    margin-bottom: 40px !important;
+}
+
+#connect{
+    border-right: 3px solid white;
+    height: 180px;
+    margin-top: 30px !important;
+    margin-bottom: 60px !important;
+}
+
+#address{
+    margin-top: 40px !important;
+}
